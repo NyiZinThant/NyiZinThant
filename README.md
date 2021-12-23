@@ -1,6 +1,6 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 <h1 align="center">Hi 👋, I'm Nyi Zin Thant</h1>
-<h3 align="center">I am a Web Developer from Myanmar.</h3>
+<h3 align="center">I am a Junior Web Developer from Myanmar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyizinthant&label=Profile%20views&color=0e75b6&style=flat" alt="nyizinthant" /> </p>
 
