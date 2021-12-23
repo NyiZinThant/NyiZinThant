@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <h1 align="center">Hi 👋, I'm Nyi Zin Thant</h1>
 <h3 align="center">I am a Junior Web Developer from Myanmar.</h3>
 
