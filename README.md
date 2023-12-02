@@ -1,6 +1,6 @@
   ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-<h1 align="center">Hi 👋, I'm Nyi Zin Thant</h1>
-<h3 align="center">I am a Self-taught Programmer.</h3>
+<h1 align="center">Hi, I'm Nyi Zin Thant</h1>
+<h3 align="center">I'm a novice web developer eager to learn and grow in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyizinthant&label=Profile%20views&color=0e75b6&style=flat" alt="nyizinthant" /> </p>
 
