@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyizinthant&label=Profile%20views&color=0e75b6&style=flat" alt="nyizinthant" /> </p>
 
-- 🌱 I’m currently learning **Advanced Javascript, React**
+- 🌱 I’m currently learning **Advanced JavaScript, React**
 
-- 💬 Ask me about **HTML,CSS,Javascript,PHP,Laravel**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Node.js**
 
 - 📫 How to reach me **nyizinthant@gmail.com**
 
