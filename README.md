@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  I'm a novice web developer eager to learn and grow in the field.</h3>
+<h3 align="center">👩‍💻  I'm a novice web developer eager to learn and grow in the field.</h3>
 
 ###
 
